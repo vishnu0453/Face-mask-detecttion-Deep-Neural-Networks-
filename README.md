@@ -47,7 +47,8 @@ correctly identified 98% of the actual positive instances in the test set.
 ![image](https://github.com/vishnu0453/Face-mask-detecttion-Deep-Neural-Networks-/assets/73246457/c44e24ef-0552-46bb-bf0b-0276eea4fe14)
 
 ### Class Diagram:
-![image](https://github.com/vishnu0453/Face-mask-detecttion-Deep-Neural-Networks-/assets/73246457/596b2f93-fe26-4740-a790-a4a359dfbe28)
+![image](https://github.com/vishnu0453/Face-mask-detecttion-Deep-Neural-Networks-/assets/73246457/9cb0b357-0180-415b-9a35-fbdad44a9ac6)
+
 
 ### DATA FLOW DIAGRAM:
 ![image](https://github.com/vishnu0453/Face-mask-detecttion-Deep-Neural-Networks-/assets/73246457/72375b50-cc6a-4a4c-9560-28e52dbafe89)
